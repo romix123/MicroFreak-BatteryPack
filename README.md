@@ -1,6 +1,8 @@
 # MicroFreak BatteryPack
  Battery pack add-on for Arturia MicroFreak
 
+https://github.com/romix123/MicroFreak-BatteryPack/blob/main/images/MFBP.jpg
+
 The Arturia MicroFreak is a wonderful device. It can run off a USB battery pack making it a portable device. Grab your power bank, USB cable and headphones and start jamming the park, subway, or wherever. 
 But we can do better. Enter MicroFreak BatteryPack. 
 MFBP is an add-on that plugs into the USB port of the MF and, alleviating the need for a power bank and cable.
