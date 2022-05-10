@@ -2,6 +2,7 @@
  Battery pack add-on for Arturia MicroFreak
 
 https://github.com/romix123/MicroFreak-BatteryPack/blob/main/images/MFBP.jpg
+![MFBP](https://user-images.githubusercontent.com/1766442/167636793-4b61aa7e-d286-4107-b85d-72f8e8cb81d8.jpg)
 
 The Arturia MicroFreak is a wonderful device. It can run off a USB battery pack making it a portable device. Grab your power bank, USB cable and headphones and start jamming the park, subway, or wherever. 
 But we can do better. Enter MicroFreak BatteryPack. 
