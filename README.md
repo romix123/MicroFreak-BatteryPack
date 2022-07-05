@@ -16,3 +16,5 @@ The MFBP holds firmly on the USB socket, but you can also use one or two pieces 
 The pack can be left installed on the MF while being recharged, as long as you switch off the MF.
 
 The Tinkercad sources are here https://www.tinkercad.com/things/04gnGEbWU8p 
+
+BTW, I sell these battery packs in limited numbers. Contact me if you're interested.
